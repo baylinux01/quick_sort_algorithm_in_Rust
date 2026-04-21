@@ -1,0 +1,3 @@
+This project is statically linked against the Rust Standard Library. 
+The Rust Standard Library is distributed under the terms of the MIT License OR the Apache License, Version 2.0. 
+You may choose to use this project under either of these licenses.
